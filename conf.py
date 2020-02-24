@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "Leouas/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "Leouas/bthl@gh-pages"
 }
 
 # 站点设置
@@ -43,17 +43,17 @@ external_links = [
 nav = [
     {
         "name": "首页",
-        "url": "${site_prefix}",
+        "url": "${bthl}",
         "target": "_self"
     },
     {
         "name": "归档",
-        "url": "${site_prefix}archives/",
+        "url": "${bthl}archives/",
         "target": "_self"
     },
     {
         "name": "关于",
-        "url": "${site_prefix}about/",
+        "url": "${bthl}about/",
         "target": "_self"
     }
 ]
