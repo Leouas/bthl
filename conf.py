@@ -25,17 +25,17 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "Leouas"
 email = "Leoua7@163.com"
 author_homepage = "https://Leouas.top"
-description = "世上有千万种等待，最好的那种叫来日可期。"
+description = "nothing"
 key_words = ['Leouas','Leoua7', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": " Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "熊猫小A",
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/Leoua7",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/Leouas",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/",
         "icon": "gi gi-weibo"
     }
 ]
