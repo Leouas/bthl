@@ -28,7 +28,7 @@ email = "Leoua7@163.com"
 author_homepage = "https://Leouas.top"
 description = "nothing"
 key_words = ['Leouas','Leoua7', 'blog']
-language = 'zh-CN'
+language = 'en'
 external_links = [
     {
         "name": "Maverick",
