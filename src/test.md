@@ -1,6 +1,6 @@
 ---
-title:new post
-date:2020:03:10 01:11
+title: new post
+date: 2019-12-18 16:50
 ---
 
 正文
