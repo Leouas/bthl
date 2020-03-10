@@ -4,7 +4,7 @@ title: 我的第一篇文章
 slug: my-first-awesome-post
 date: 2020-02-24 16:10:04
 status: publish
-author: LEouas
+author: Leouas
 categories:
 - 默认分类
 tags:
