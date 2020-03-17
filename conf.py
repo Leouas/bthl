@@ -36,9 +36,9 @@ external_links = [
         "brief": " Go My Own Way."
     },
     {
-        "name": "熊猫小A",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Leouas",
+        "url": "https://Leouas.top",
+        "brief": "冰糖葫芦Sayk's Blog"
     }
 ]
 nav = [
