@@ -30,7 +30,7 @@ description = "nothing"
 key_words = ['Leouas','Leoua7', 'blog']
 language = 'en'
 external_links = [
-    {
+        {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "Go My Own Way"
@@ -49,12 +49,12 @@ nav = [
     },
     {
         "name": "归档",
-        "url": "https:leouas.top/bthl/archives/",
+        "url": "${bthl}/archives/",
         "target": "_self"
     },
     {
         "name": "关于",
-        "url": "${bthl}about/",
+        "url": "${bthl}/about/",
         "target": "_self"
     }
 ]
