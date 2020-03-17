@@ -49,12 +49,12 @@ nav = [
     },
     {
         "name": "归档",
-        "url": "${bthl}/archives/",
+        "url": "${bthl}archives/",
         "target": "_self"
     },
     {
         "name": "关于",
-        "url": "${bthl}/about/",
+        "url": "${static_prefix}about/",
         "target": "_self"
     }
 ]
