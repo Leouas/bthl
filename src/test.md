@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ScreenRecording
-slug: typography
 date: 2020-03-17 17:04
 status: publish
 author: Leouas
