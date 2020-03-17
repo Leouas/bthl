@@ -44,18 +44,18 @@ external_links = [
 nav = [
     {
         "name": "首页",
-        "url": "${bthl}",
-        "target": "_self"
+        "url": "https://Leouas.top/bthl",
+        #"target": "_self"
     },
     {
         "name": "归档",
-        "url": "${bthl}archives/",
-        "target": "_self"
+        "url": "https://Leouas.top/bthl/archives/",
+        #"target": "_self"
     },
     {
         "name": "关于",
-        "url": "${static_prefix}about/",
-        "target": "_self"
+        "url": "https://Leouas.top/bthl/about/",
+        #"target": "_self"
     }
 ]
 
