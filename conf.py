@@ -31,11 +31,6 @@ key_words = ['Leouas','Leoua7', 'blog']
 language = 'en'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": " Go My Own Way."
-    },
-    {
         "name": "Leouas",
         "url": "https://Leouas.top",
         "brief": "冰糖葫芦Sayk's Blog"
@@ -49,7 +44,7 @@ nav = [
     },
     {
         "name": "归档",
-        "url": "${bthl}archives/",
+        "url": "https:leouas.top/bthl/archives/",
         "target": "_self"
     },
     {
