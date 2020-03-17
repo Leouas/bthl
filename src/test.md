@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ScreenRecording
+title: Screen Recording
+slug: Screen-recording
 date: 2020-03-17 17:04
 status: publish
 author: Leouas
