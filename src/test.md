@@ -14,7 +14,7 @@ excerpt: 暂时没有写excerpt
 
 # 网盘账号
 
-奶牛快转 --> [Cowtransfer.com](https://cowtransfer.com)
+奶牛快传 → [Cowtransfer.com](https://cowtransfer.com)
 
 ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/gif/cowt.gif)
 
