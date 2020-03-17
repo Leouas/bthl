@@ -3,7 +3,6 @@ layout: post
 title: ScreenRecording
 slug: typography
 date: 2020-03-17 17:04
-date: 2019-12-18 16:50
 status: publish
 author: Leouas
 categories: 
