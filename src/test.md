@@ -18,7 +18,7 @@ excerpt: 暂时没有写excerpt
 > 
 > 如果是电脑端，参考下面的方法
 > 
-> ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/gif/nweb.gif)
+> ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img@master/gif/mweb.gif)
 
 # 网盘账号
 
