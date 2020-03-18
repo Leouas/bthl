@@ -15,6 +15,10 @@ excerpt: 暂时没有写excerpt
 > ## Updated：2020-03-18 15:40:47
 > 
 > 奶牛快传网页手机端 可在线预览视频
+> 
+> 如果是电脑端，参考下面的方法
+> 
+> ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/gif/nweb.gif)
 
 # 网盘账号
 
