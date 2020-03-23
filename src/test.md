@@ -12,7 +12,7 @@ tags:
 excerpt: 暂时没有写excerpt
 ---
 
-> ## Updated：2020-03-20 16:53:31
+> ## Updated：2020-03-23 18:29:35
 > 
 > 奶牛快传网页手机端 可在线预览视频
 > 
@@ -47,3 +47,4 @@ excerpt: 暂时没有写excerpt
 - [工程力学04 习题课](https://c-t.work/s/0d59e3220bc940)
 - [工程力学04-2 上](https://c-t.work/s/f6b60dedc4fa46)
 - [工程力学04-2 下（前30min缺失)](https://c-t.work/s/7cf3cb167d4343)
+- [工程力学05-1 第四章轴向拉伸与压缩](https://c-t.work/s/7b780bec4fbf44)
