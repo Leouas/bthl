@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Gyanle Yao</title><link>/bthl/</link><description>nothing</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Leouas/bthl@gh-pages/logo.png</url><title>Gyanle Yao</title><link>/bthl/</link></image><language>en</language><lastBuildDate>Mon, 23 Mar 2020 10:30:27 +0806</lastBuildDate><pubDate>Mon, 23 Mar 2020 10:30:27 +0806</pubDate><item><title>Hello World!</title><link>/bthl/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Gyanle Yao</title><link>/bthl/</link><description>nothing</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Leouas/bthl@gh-pages/logo.png</url><title>Gyanle Yao</title><link>/bthl/</link></image><language>en</language><lastBuildDate>Fri, 27 Mar 2020 08:43:25 +0806</lastBuildDate><pubDate>Fri, 27 Mar 2020 08:43:25 +0806</pubDate><item><title>Hello World!</title><link>/bthl/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -91,20 +91,24 @@
 密码：123456789&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;高分子化学&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://c-t.work/s/c42f9d31cd7740"&gt;高分子化学 第二章结尾 2020-03-17&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://c-t.work/s/bd9958d0bab246"&gt;高分子化学 第三章 自由基聚合开头部分 2020-03-17&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/c42f9d31cd7740"&gt;高分子化学 03 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/bd9958d0bab246"&gt;高分子化学 04 自由基聚合&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/a0c843ea374f4a"&gt;高分子化学 05 自由基聚合2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;高分子物理&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://c-t.work/s/2bda0c94e4f74a"&gt;高分子物理 02 2020-03-06 14-23-40-142.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/2bda0c94e4f74a"&gt;高分子物理 02&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/5c556463839144"&gt;高分子物理 03 2020-03-13 14-06&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/4644b41ecc0040"&gt;高分子物理 04 2020-03-20 16-45&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/ae7f16b16a6d4e"&gt;高分子物理 05&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;工程力学&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/25d9926873e242"&gt;工程力学02 第二章&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/0d59e3220bc940"&gt;工程力学04 习题课&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/f6b60dedc4fa46"&gt;工程力学04-2 上&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/7cf3cb167d4343"&gt;工程力学04-2 下（前30min缺失)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://c-t.work/s/7b780bec4fbf44"&gt;工程力学05-1 第四章轴向拉伸与压缩&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c-t.work/s/a8fad9376fbb4e"&gt;工程力学05-2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description><author>Leoua7@163.com (Leouas)</author><guid isPermaLink="true">/bthl/archives/Screen-recording/</guid><pubDate>Tue, 17 Mar 2020 17:04:00 +0806</pubDate></item></channel></rss>
