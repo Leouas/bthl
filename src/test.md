@@ -31,6 +31,16 @@ excerpt: 暂时没有写excerpt
 密码：123456789
 ```
 
+# 汇总
+
+- [ 高分子化学](https://c-t.work/s/718e8b9bd5214d)
+
+- [高分子物理](https://c-t.work/s/74cb08cdffd94d)
+
+- [工程力学](https://c-t.work/s/6ace7b4311b949)
+
+> ——(2020-03-31 16:15:58更新)
+
 # 高分子化学
 
 - [高分子化学 03 ](https://c-t.work/s/c42f9d31cd7740)
