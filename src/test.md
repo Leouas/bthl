@@ -12,6 +12,12 @@ tags:
 excerpt: 暂时没有写excerpt
 ---
 
+# Attention！
+
+## 这篇博文转至[ScreenRecording | Leouas](https://leouas.top/whut-Screen-Recording/ "https://leouas.top/whut-Screen-Recording/")，请移步主站。
+
+## 此处这篇博文不再更新
+
 > ## Updated：2020-03-31 16:20:23
 > 
 > 奶牛快传网页手机端 可在线预览视频
